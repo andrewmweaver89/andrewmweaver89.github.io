@@ -1,9 +1,9 @@
 ---
 layout: post
-title: It is about time I make something
-description: Experimentation with staic markdown (github pages with jekyll)
+title: Experimenting wit blogs
+description: "Jekyll and Hyde"
 modified: 2019-02-28
-tags: [firt post],[iwin]
+tags: [first psot]
 ---
 
 # Jekyll
