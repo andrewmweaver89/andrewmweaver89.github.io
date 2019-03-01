@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Experimenting wit blogs
+title: Experimenting with blogs
 description: "Jekyll and Hyde"
 modified: 2019-02-28
-tags: [first psot]
+tags: [first post]
 ---
 
 # Jekyll
