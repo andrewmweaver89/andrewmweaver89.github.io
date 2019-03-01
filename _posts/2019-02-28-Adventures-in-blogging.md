@@ -3,7 +3,7 @@ layout: post
 title: It is about time I make something
 description: Experimentation with staic markdown (github pages with jekyll)
 modified: 2019-02-28
-tags: [firt post] [iwin]
+tags: [firt post],[iwin]
 ---
 # Jekyll
 
@@ -14,13 +14,12 @@ Well if you have a domain name - you will probably *want* something for it to re
 ### How to get up and running...
 
 1. Buy a domain (domains.google - honestly not to bad)
-   1. configure said domains dns to play nice with github pages
-      1. Add github SSL ips 185.199.108.153
+   1. Add github SSL ips 185.199.108.153
                             185.199.109.153
                             185.199.110.153
                             185.199.111.153
-          as 'A' records
-      2. Add CNAME rec for your www - <user>@github.io[github page]
+       as 'A' records
+    2. Add CNAME rec for your www - <user>@github.io[github page]
 2. Fork a template (https://drjekyllthemes.github.io/top)
 3. Add a CNAME to your master branch with the custom domain listed 
 4. PROFIT $$
